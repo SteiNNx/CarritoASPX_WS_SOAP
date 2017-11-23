@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:57435/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:57435/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:57435/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Modelo" />
+      <xsd:import schemaLocation="http://localhost:57435/Service1.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_usuarioGrabarXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioGrabarXML" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioGrabarXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioGrabarXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioActualizarXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioActualizarXML" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioActualizarXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioActualizarXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioListar_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioListar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioListar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioListarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioEliminar_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioEliminar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioEliminar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioEliminarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioLogin_InputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioLogin" />
+  </wsdl:message>
+  <wsdl:message name="IService1_usuarioLogin_OutputMessage">
+    <wsdl:part name="parameters" element="tns:usuarioLoginResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_locales_InputMessage">
+    <wsdl:part name="parameters" element="tns:locales" />
+  </wsdl:message>
+  <wsdl:message name="IService1_locales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:localesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:compraAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:compraAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraActualizar_InputMessage">
+    <wsdl:part name="parameters" element="tns:compraActualizar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraActualizar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:compraActualizarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraListar_InputMessage">
+    <wsdl:part name="parameters" element="tns:compraListar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_compraListar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:compraListarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraActualizar_InputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraActualizar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraActualizar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraActualizarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraListar_InputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraListar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_detalleCompraListar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:detalleCompraListarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoListar_InputMessage">
+    <wsdl:part name="parameters" element="tns:productoListar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoListar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:productoListarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoAgregar_InputMessage">
+    <wsdl:part name="parameters" element="tns:productoAgregar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoAgregar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:productoAgregarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoActualizar_InputMessage">
+    <wsdl:part name="parameters" element="tns:productoActualizar" />
+  </wsdl:message>
+  <wsdl:message name="IService1_productoActualizar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:productoActualizarResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="usuarioGrabarXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/usuarioGrabarXML" message="tns:IService1_usuarioGrabarXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/usuarioGrabarXMLResponse" message="tns:IService1_usuarioGrabarXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuarioActualizarXML">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/usuarioActualizarXML" message="tns:IService1_usuarioActualizarXML_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/usuarioActualizarXMLResponse" message="tns:IService1_usuarioActualizarXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuarioListar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/usuarioListar" message="tns:IService1_usuarioListar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/usuarioListarResponse" message="tns:IService1_usuarioListar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuarioEliminar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/usuarioEliminar" message="tns:IService1_usuarioEliminar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/usuarioEliminarResponse" message="tns:IService1_usuarioEliminar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="usuarioLogin">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/usuarioLogin" message="tns:IService1_usuarioLogin_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/usuarioLoginResponse" message="tns:IService1_usuarioLogin_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="locales">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/locales" message="tns:IService1_locales_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/localesResponse" message="tns:IService1_locales_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="compraAgregar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/compraAgregar" message="tns:IService1_compraAgregar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/compraAgregarResponse" message="tns:IService1_compraAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="compraActualizar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/compraActualizar" message="tns:IService1_compraActualizar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/compraActualizarResponse" message="tns:IService1_compraActualizar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="compraListar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/compraListar" message="tns:IService1_compraListar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/compraListarResponse" message="tns:IService1_compraListar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraAgregar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/detalleCompraAgregar" message="tns:IService1_detalleCompraAgregar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/detalleCompraAgregarResponse" message="tns:IService1_detalleCompraAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraActualizar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/detalleCompraActualizar" message="tns:IService1_detalleCompraActualizar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/detalleCompraActualizarResponse" message="tns:IService1_detalleCompraActualizar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraListar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/detalleCompraListar" message="tns:IService1_detalleCompraListar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/detalleCompraListarResponse" message="tns:IService1_detalleCompraListar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="productoListar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/productoListar" message="tns:IService1_productoListar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/productoListarResponse" message="tns:IService1_productoListar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="productoAgregar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/productoAgregar" message="tns:IService1_productoAgregar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/productoAgregarResponse" message="tns:IService1_productoAgregar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="productoActualizar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/productoActualizar" message="tns:IService1_productoActualizar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/productoActualizarResponse" message="tns:IService1_productoActualizar_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="usuarioGrabarXML">
+      <soap:operation soapAction="http://tempuri.org/IService1/usuarioGrabarXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuarioActualizarXML">
+      <soap:operation soapAction="http://tempuri.org/IService1/usuarioActualizarXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuarioListar">
+      <soap:operation soapAction="http://tempuri.org/IService1/usuarioListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuarioEliminar">
+      <soap:operation soapAction="http://tempuri.org/IService1/usuarioEliminar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="usuarioLogin">
+      <soap:operation soapAction="http://tempuri.org/IService1/usuarioLogin" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="locales">
+      <soap:operation soapAction="http://tempuri.org/IService1/locales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="compraAgregar">
+      <soap:operation soapAction="http://tempuri.org/IService1/compraAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="compraActualizar">
+      <soap:operation soapAction="http://tempuri.org/IService1/compraActualizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="compraListar">
+      <soap:operation soapAction="http://tempuri.org/IService1/compraListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraAgregar">
+      <soap:operation soapAction="http://tempuri.org/IService1/detalleCompraAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraActualizar">
+      <soap:operation soapAction="http://tempuri.org/IService1/detalleCompraActualizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="detalleCompraListar">
+      <soap:operation soapAction="http://tempuri.org/IService1/detalleCompraListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="productoListar">
+      <soap:operation soapAction="http://tempuri.org/IService1/productoListar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="productoAgregar">
+      <soap:operation soapAction="http://tempuri.org/IService1/productoAgregar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="productoActualizar">
+      <soap:operation soapAction="http://tempuri.org/IService1/productoActualizar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:57435/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

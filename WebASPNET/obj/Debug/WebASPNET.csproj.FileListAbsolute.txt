@@ -1,0 +1,159 @@
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\ApplicationInsights.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\csc.exe
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\vbc.exe
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.csprojResolveAssemblyReference.cache
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\ApplicationInsights.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\csc.exe
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\vbc.exe
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.csprojResolveAssemblyReference.cache
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\ApplicationInsights.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\csc.exe
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\vbc.exe
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\WebASPNET.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\DAO.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Modelo.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\MySql.Data.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\DAO.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\DAO.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Modelo.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Modelo.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\bin\MySql.Data.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.csprojResolveAssemblyReference.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.csproj.CoreCompileInputs.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\ApplicationInsights.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\csc.exe
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\vbc.exe
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\WebASPNET.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\DAO.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Modelo.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.Web.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\bin\MySql.Data.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebASPNET\obj\Debug\WebASPNET.pdb

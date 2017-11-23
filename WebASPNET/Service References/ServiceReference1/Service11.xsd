@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Modelo" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Modelo" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfCL_Usuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CL_Usuario" nillable="true" type="tns:CL_Usuario" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCL_Usuario" nillable="true" type="tns:ArrayOfCL_Usuario" />
+  <xs:complexType name="CL_Usuario">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Apellido" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Habilitado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdUsuario" type="xs:int" />
+      <xs:element minOccurs="0" name="Local" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TipoUsuario" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="User" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CL_Usuario" nillable="true" type="tns:CL_Usuario" />
+  <xs:complexType name="ArrayOfCL_Compra">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CL_Compra" nillable="true" type="tns:CL_Compra" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCL_Compra" nillable="true" type="tns:ArrayOfCL_Compra" />
+  <xs:complexType name="CL_Compra">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FechaCompra" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdCompra" type="xs:int" />
+      <xs:element minOccurs="0" name="UsuarioCompra" nillable="true" type="tns:CL_Usuario" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CL_Compra" nillable="true" type="tns:CL_Compra" />
+  <xs:complexType name="ArrayOfCL_DetalleCompra">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CL_DetalleCompra" nillable="true" type="tns:CL_DetalleCompra" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCL_DetalleCompra" nillable="true" type="tns:ArrayOfCL_DetalleCompra" />
+  <xs:complexType name="CL_DetalleCompra">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cantidad" type="xs:int" />
+      <xs:element minOccurs="0" name="Compra" nillable="true" type="tns:CL_Compra" />
+      <xs:element minOccurs="0" name="Producto" nillable="true" type="tns:CL_Producto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CL_DetalleCompra" nillable="true" type="tns:CL_DetalleCompra" />
+  <xs:complexType name="CL_Producto">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="DiaCombo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="EsCombo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Habilitado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="IdProducto" type="xs:int" />
+      <xs:element minOccurs="0" name="NombreProducto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="PrecioProducto" type="xs:int" />
+      <xs:element minOccurs="0" name="Stock" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CL_Producto" nillable="true" type="tns:CL_Producto" />
+  <xs:complexType name="ArrayOfCL_Producto">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CL_Producto" nillable="true" type="tns:CL_Producto" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCL_Producto" nillable="true" type="tns:ArrayOfCL_Producto" />
+</xs:schema>

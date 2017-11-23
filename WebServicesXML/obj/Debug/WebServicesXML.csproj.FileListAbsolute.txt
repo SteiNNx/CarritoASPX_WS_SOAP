@@ -1,0 +1,103 @@
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\ApplicationInsights.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.csprojResolveAssemblyReference.cache
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\ApplicationInsights.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.csprojResolveAssemblyReference.cache
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\ApplicationInsights.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\DAO.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Modelo.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\MySql.Data.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\DAO.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\DAO.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Modelo.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Modelo.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\bin\MySql.Data.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.csprojResolveAssemblyReference.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.csproj.CoreCompileInputs.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\ApplicationInsights.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\WebServicesXML.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\DAO.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Modelo.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.Web.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\bin\MySql.Data.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\WebServicesXML\obj\Debug\WebServicesXML.pdb

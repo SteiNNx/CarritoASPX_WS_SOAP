@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WebPage.master.cs" Inherits="WebASPNET.Vistas.WebPage" %>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>San Guchote</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/half-slider.css" rel="stylesheet">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+        <form id="form2" runat="server">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="Home.aspx">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="" data-toggle="dropdown">Administrar Personal</a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a href="AgregarPersonal.aspx" class="dropdown-item">Agregar Personal</a>
+                            <a href="ActualizarPersonal.aspx" class="dropdown-item">Actualizar Personal</a>
+                            <a href="ListadoPersonal.aspx" class="dropdown-item">Listar Personal</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="" data-toggle="dropdown">Insumos</a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a href="AgregarInsumo.aspx" class="dropdown-item">Agregar Insumos</a>
+                            <a href="ActualizarInsumos.aspx" class="dropdown-item">Actualizar Insumos</a>
+                            <a href="ProductosEnBodega.aspx" class="dropdown-item">Productos en Bodega</a>
+                        </div>
+                    </li>
+                    <li class="nav-item dropdown ">
+                        <a class="nav-link dropdown-toggle" href="" data-toggle="dropdown">Financiera</a>
+                        <div class="dropdown-menu dropdown-menu-right">
+                            <a href="RegistrarVentas.aspx" class="dropdown-item">Registrar Ventas</a>
+                            <a href="VentasXSemanas.aspx" class="dropdown-item">Ventas Por Semanas</a>
+                        </div>
+                    </li>
+                    <!--<li class="nav-item">
+                        <a class="nav-link" href="Comprar.aspx">Comprar</a>
+                    </li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <br />
+    <br />
+    <br />
+    <section class="py-5">
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </section>
+
+    <footer class=" bg-dark " style="position: fixed; bottom: 0; width: 100%; height: min-content;">
+        <div class="container ">
+
+            <p class="m-0 text-center text-white">
+                <asp:LoginStatus ID="LoginStatus1" runat="server" />
+
+                Copyright &copy; SteiNNxLabs 2017</p>
+
+        </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="../vendor/jquery/jquery.min.js"></script>
+    <script src="../vendor/popper/popper.min.js"></script>
+    <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    </form>
+
+</body>
+</html>

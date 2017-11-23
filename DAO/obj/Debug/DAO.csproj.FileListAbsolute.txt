@@ -1,0 +1,49 @@
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\bin\Debug\DAO.dll
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\bin\Debug\DAO.pdb
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\bin\Debug\Modelo.dll
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\bin\Debug\Modelo.pdb
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\obj\Debug\DAO.dll
+c:\users\lc_xxx\documents\visual studio 2015\Projects\SolucionPrueba02\DAO\obj\Debug\DAO.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll.config
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.pdb
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.xml
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.dll
+C:\Users\LC_XXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\DAO.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\DAO.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\DAO.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\Modelo.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\MySql.Data.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\Modelo.pdb
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\Modelo.dll.config
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\bin\Debug\MySql.Data.xml
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\obj\Debug\DAO.dll
+C:\Users\SteinnxLabs\Documents\Visual Studio 2017\Proyects\SolucionPrueba02\DAO\obj\Debug\DAO.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll.config
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\DAO.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\Modelo.pdb
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\bin\Debug\MySql.Data.xml
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.dll
+C:\Users\LC1300XXXX\Downloads\SolucionPrueba02\DAO\obj\Debug\DAO.pdb

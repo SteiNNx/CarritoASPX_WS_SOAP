@@ -1,0 +1,12 @@
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\DAO.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\Modelo.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\MySql.Data.dll
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\DAO.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\Modelo.pdb
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\bin\Debug\MySql.Data.xml
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\DUOC\Downloads\SolucionPrueba02\TestConsola\obj\Debug\TestConsola.pdb
